@@ -1,17 +1,15 @@
 def hello_world():
-    # Write a doc string below. Doc strings can be used to provide the user with a
-    # description of what the function does.
+
+    """ This is a simple function to print "Hello, World!"
     """
+    # Hello! Excited to grow my python knowledge - Auston Henninger
+    #The following line will print in a console 'Hello, World!' when executed.
+print("Hello, World!")
 
-    """
-
-    # Write a comment; comments are very useful to other programmers.
-
-    # Write a Python statement to print Hello, World!
 
 def add(a,b):
 
     # Write simple code to add variable a and b
-    output =
+    output = a + b
 
     return output
